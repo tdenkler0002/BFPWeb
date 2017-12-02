@@ -53,8 +53,9 @@
       <img class="file-submission-icon"
              src="{% static 'site/img/upload.png' %}"/>
         <h2>Submitting Files</h2>
-        <p>Submit your batch files in the following file formats:</p>
-        <p class="file-format">CSV | XML | JSON</p>
+        <p>Please submit files below</p>
+        <p>Acceptable file formats:</p>
+        <p class="file-format">CSV ONLY</p>
         <form action="/api/documents/" method="post" enctype="multipart/form-data">
           {% csrf_token %}
           <label for="file">Filename:</label>
@@ -62,6 +63,9 @@
           <br />
           <input type="submit" name="submit" value="Submit" />
       </form>
+        {% if view.message %}
+          {{ view.message}}
+        {% endif %}
     </div>
     <div class="col-lg-4">
       <img class="file-submission-icon"
@@ -69,9 +73,8 @@
         <h2>Submission History</h2>
         <p>View the previous submissions and status through the BFP Portal. You can view the files submitted for the previous 2 weeks.</p>
         <ul>
-          <li>Test</li>
-          {% for file in files %}
-          <li>{{ file }}</li>
+          {% for file in view.files %}
+          <li><a href={{file}}>{{ file | slice:"17:" }}</li>
           {% endfor %}
         </ul>
     </div>
@@ -82,4 +85,6 @@
 
 {% block scripts %}
 <script src="{% static 'site/js/site.js' %}"></script>
+<script>
+</script>
 {% endblock scripts %}

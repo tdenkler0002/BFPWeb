@@ -23,14 +23,14 @@ class FileView(generics.ListCreateAPIView):
   parser_classes = (MultiPartParser, FormParser)
 
   def post(self, request, *args, **kwargs):
-    contentTypes=['application/json', 'application/csv', 'application/xml', 'text/csv']
+    contentTypes=['application/csv', 'text/csv']
     doc_serializer = DocumentSerializer(data=request.data)
     uploadedFile = request.FILES['file']
-    # Parse the CSV file according to rules
-    BFParser.PyParser(uploadedFile)
+    message = None
 
-    # Check that file type is JSON, CSV, or XML
+    # Check that file type is CSV
     if doc_serializer.is_valid() and uploadedFile.content_type in contentTypes:
+      BFParser.PyParser(uploadedFile)
       doc_serializer.save()
       return Response(doc_serializer.data, status=status.HTTP_201_CREATED)
     else:
@@ -49,23 +49,19 @@ class documentList(APIView):
 class HomePage(generic.TemplateView):
     template_name = "home.html"
     # Remove function to get to work..
-    @ajax_request
-    def json_files(request, dir_name):
-        path = os.path.join(settings.MEDIA_ROOT, dir_name)
-        files = []
-        for f in os.listdir(path):
-            if f.endswith("csv") or f.endswith("Corrected"): # to avoid other files
-                files.append("%s%s/%s" % (settings.MEDIA_URL, dir_name, f)) # modify the concatenation to fit your neet
-        return {'files': files}
+    files = []
+
+    dir_name='documents'
+    path = os.path.join(settings.MEDIA_ROOT, dir_name)
+    for f in os.listdir(path):
+        if f.endswith("Corrected"): # to avoid other files
+            files.append("%s%s/%s" % (settings.MEDIA_URL, dir_name, f)) # modify the concatenation to fit your neet
+    print(files)
 
 class AboutPage(generic.TemplateView):
     template_name = "about.html"
-
-    def test(request):
-        data = pd.read_csv('BFPWebApp2/AnalyticParser/data.csv', index_col=None)
-        data_html = data.to_html()
-        context = {'loaded_data': data_html}
-        return render(request, 'about.html', context)
+    data = pd.read_csv('BFPWebApp2/AnalyticParser/data.csv', index_col=None)
+    data_html = data.to_html()
 
 class SuccessPage(generic.TemplateView):
     template_name = "sucess.html"

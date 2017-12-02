@@ -26,31 +26,21 @@
 <div id="sec2" class="text-page">
   <div class="container">
     <div class="row">
-      <div class="col-md-12 text-center">
-        <h2>Processing Errors</h2>
-        <p class="lead"></p>
-      </div>
+      <img class="gears-img"
+           src="../static/site/img/gears.png">
+      <h1>Developer Dashboard</h1>
+      <h3>Helping visualize the processing results.</h3>
     </div>
-    <img class="gears-img"
-         src="../static/assets/gears.png">
-    <h1>Developer Dashboard</h1>
-    <h3>Helping visualize the processing results.</h3>
     <!-- TODO: Change out static data -->
     <div class="container">
       <h2 class="row">Processing Errors</h2>
-      <form action="/about/data" method="test">
-       <input type="submit" class="btn" value="Show Results" name="mybtn">
-       {{loaded_data | safe}}
-      </form>
+       {{view.data_html | safe}}
       <div class="row">
         <h2>Error Analytics</h2>
           <div class="col-xs-12 graphical-data">
-            <img class="temp-graph" src="../static/assets/graphplaceholder.png">
+            <img class="temp-graph" src="../static/site/img/graphplaceholder.png">
           </div>
       </div>
-      </div>
-    </div>
-
     </div>
   </div>
 </div>

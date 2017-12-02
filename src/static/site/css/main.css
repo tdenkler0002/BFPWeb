@@ -15,7 +15,12 @@ html, body{
   margin-top: 40px;
   border-top: 1px solid #eee;
 }
-
+.gears-img {
+  width: 200px;
+  display: inline-block;
+  float: left;
+  padding-right: 20px;
+}
 .alert {
     margin-top: 55px;
     margin-bottom: 0;
@@ -194,4 +199,41 @@ h2 {
   margin-top: 10px;
   width: 80px;
   height: 80px;
+}
+
+table.dataframe {
+  font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+  border: 1px solid #FFFFFF;
+  width: 350px;
+  height: 200px;
+  text-align: center;
+  border-collapse: collapse;
+}
+table.dataframe td, table.dataframe th {
+  border: 1px solid #FFFFFF;
+  padding: 3px 2px;
+}
+table.dataframe tbody td {
+  font-size: 13px;
+}
+table.dataframe tr:nth-child(even) {
+  background: #AFEBFF;
+}
+table.dataframe thead {
+  background: #30C3E8;
+  border-bottom: 5px solid #FFFFFF;
+}
+table.dataframe thead th {
+  font-size: 17px;
+  font-weight: bold;
+  color: #FFFFFF;
+  text-align: center;
+  border-left: 2px solid #FFFFFF;
+}
+table.dataframe thead th:first-child {
+  border-left: none;
+}
+
+table.dataframe tfoot td {
+  font-size: 14px;
 }
