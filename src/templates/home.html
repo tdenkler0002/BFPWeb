@@ -1,0 +1,84 @@
+{% extends "base.html" %}
+
+{% load staticfiles %}
+{% load crispy_forms_tags %}
+
+{% block title %}{{ block.super }}Home{% endblock %}
+
+{% block navbar-left %}
+  {% include "_navbar.html" with active_link="home" %}
+{% endblock %}
+
+{% block navbar-right %}
+  {% if not user.is_authenticated %}
+<a class="btn btn-default" href="{% url 'accounts:login' %}" role="button">Log in</a>
+<a class="btn btn-primary" href="{% url 'accounts:signup' %}" role="button">Sign up</a>
+  {% else %}
+    {{ block.super }}
+  {% endif %}
+{% endblock %}
+
+{% block splash %}
+  <div class="jumbotron jumbotron-carousel corporate-jumbo">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-sm-8">
+          <h1>{% include "_brandname.html" %}</h1>
+          <p>Making batch file processing easier.</p>
+        </div>
+        <div class="col-md-4 col-sm-4">
+
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock splash %}
+
+{% block container %}
+<!-- Benefits of the Django application -->
+<a name="about"></a>
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-4">
+      <img class="file-submission-icon"
+             src="{% static 'site/img/files.svg' %}"/>
+          <h2>Welcome</h2>
+          <p>
+            In the portal you can submit files to be batched and check your previous file submissions along with their status.
+            Batch file processing made easier by handling the pre-processing of the files now and ensuring processor results and reduced errors.
+          </p>
+    </div>
+    <div class="col-lg-4">
+      <img class="file-submission-icon"
+             src="{% static 'site/img/upload.png' %}"/>
+        <h2>Submitting Files</h2>
+        <p>Submit your batch files in the following file formats:</p>
+        <p class="file-format">CSV | XML | JSON</p>
+        <form action="/api/documents/" method="post" enctype="multipart/form-data">
+          {% csrf_token %}
+          <label for="file">Filename:</label>
+          <input type="file" name="file" id="file" />
+          <br />
+          <input type="submit" name="submit" value="Submit" />
+      </form>
+    </div>
+    <div class="col-lg-4">
+      <img class="file-submission-icon"
+           src="{% static 'site/img/lookup.png' %}"/>
+        <h2>Submission History</h2>
+        <p>View the previous submissions and status through the BFP Portal. You can view the files submitted for the previous 2 weeks.</p>
+        <ul>
+          {% for file in files %}
+          <li>{{ file }}</li>
+          {% endfor %}
+        </ul>
+    </div>
+  </div>
+</div>
+
+{% endblock container %}
+
+{% block scripts %}
+<script src="{% static 'site/js/site.js' %}"></script>
+{% endblock scripts %}
