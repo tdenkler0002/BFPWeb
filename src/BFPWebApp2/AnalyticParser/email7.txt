@@ -1,0 +1,64 @@
+Results for Sheridan on 2017-06-22:
+Started at 1498152250
+
+File /enrollments/customers/inbound/Sheridan_To_IA_CAD_20170616.csv
+Customer ID: 679, Has a Coupon: 0
+
+Batch Results
+Enrollment Time = 0 seconds
+Adds = 0/4
+Updates = 0/0
+Drops = 1/1
+Dependent Drops = 0
+Future Adds = 0
+Future Drops = 0
+Errors = 4
+
+
+Errors:
+Missing columns = 0
+Invalid customerid = 0
+Nonmatching customerid = 0
+Firstname = 4
+Middlename = 0
+Lastname = 4
+Employee id = 0
+Address1 = 0
+Zipcode = 0
+Unique id = 0
+Creditcard = 0
+Family id = 0
+Plan type = 0
+Unique id hash = 0
+Failed cancel = 0
+Failed modify = 0
+Ineligible = 0
+Productid = 0
+3456: Subscriber Not Enrolled - First Name Error
+Row 6: Subscriber Not Enrolled - Last Name Error
+
+
+
+SUBSCRIBERS ADDED
+
+
+
+FUTURE ADD SUBSCRIBERS
+
+
+
+SUBSCRIBERS UPDATED
+
+
+
+SUBSCRIBERS CANCELED
+Row 2: Subscriber Canceled - Subscriber ID 368060077395 - D. King
+
+
+
+
+FUTURE DROP SUBSCRIBERS
+
+
+
+SUBSCRIBERS NOT IN FILE - CANCELED

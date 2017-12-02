@@ -1,0 +1,84 @@
+Results for NN Inc. on 2017-10-03:
+Started on 2017-10-03 19:55:16
+
+See our legend for detailed resolution instructions
+
+File /enrollments/customers/archive/NN_To_IA_CAD_20170927.csv
+Customer ID: 1159
+
+Batch Results
+Adds = 2/3
+Future Adds = 0
+Drops = 0/0
+Dependent Drops = 0
+Future Drops = 0
+Updates = 2/2
+Errors = 1
+Warnings = 3
+
+
+Errors: Errors indicate the row was not acted upon. Please correct and resubmit row(s) for encountered errors. See our legend for detailed resolution instructions.
+Field Count Discrepancy = 0
+Non-Matching ClientID = 0
+Non-Numeric ClientID = 1
+Member First Name = 0
+Member Middle Name = 0
+Member Last Name = 0
+Duplicate SSN = 0
+Employee ID = 0
+Address = 0
+Family ID = 0
+Plan Type = 0
+Failed Change = 0
+Ineligible Participant = 0
+Product ID = 1
+
+Warnings:
+Invalid SSN = 1
+Zip Code = 1
+Failed Cancel = 0
+Invalid Date of Birth = 1
+Change Relationship = 0
+Unique ID Match = 0
+Unique ID Hash = 0
+
+
+
+SUBSCRIBER ERRORS
+Row 4: Subscriber Not Enrolled - Non-Numeric Client ID Error - ClientID must be numeric characters only
+Row 4: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - M. MemberLastName
+
+
+
+SUBSCRIBER WARNINGS
+Row 4: Warning - Zip Code Warning - Zip Code must be 5 digits - M. MemberLastName
+
+
+
+SUBSCRIBERS ADDED
+Row 2: Subscriber Added - Subscriber ID 811640377368 - W. Gavrish
+
+Row 3: Subscriber Added - Subscriber ID 695227898761 - J. Lindsay
+
+
+
+
+FUTURE ADD SUBSCRIBERS
+
+
+
+SUBSCRIBERS UPDATED
+Row 5: Subscriber Updated - Subscriber ID 811640377368 - W. Gavrish
+Row 6: Subscriber Updated - Subscriber ID 695227898761 - J. Lindsay
+
+
+
+SUBSCRIBERS CANCELED
+
+
+
+FUTURE DROP SUBSCRIBERS
+
+
+
+SUBSCRIBERS NOT IN FILE - CANCELED

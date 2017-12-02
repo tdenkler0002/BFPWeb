@@ -1,0 +1,470 @@
+Results for Nemours on 2017-11-14:
+Started on 2017-11-14 22:07:31
+
+See our legend for detailed resolution instructions
+
+File Nemours_To_IA_TEST_20171114.csv.pgp
+Customer ID: 1907
+
+Batch Results
+Adds = 0/201
+Future Adds = 201
+Drops = 0/0
+Dependent Drops = 0
+Future Drops = 0
+Updates = 0/0
+Errors = 0
+Warnings = 2
+
+
+Errors: Errors indicate the row was not acted upon. Please correct and resubmit row(s) for encountered errors. See our legend for detailed resolution instructions.
+Field Count Discrepancy = 0
+Non-Matching ClientID = 0
+Non-Numeric ClientID = 0
+Member First Name = 0
+Member Middle Name = 0
+Member Last Name = 0
+Duplicate SSN = 0
+Employee ID = 0
+Address = 0
+Family ID = 0
+Plan Type = 0
+Failed Change = 0
+Ineligible Participant = 0
+Product ID = 0
+
+Warnings: Warnings indicate an issue requiring resolution. Please correct for subsequent files. The row was processed successfully. See our legend for detailed resolution instructions.
+Invalid SSN = 2
+Zip Code = 0
+Failed Cancel = 0
+Invalid Date of Birth = 0
+Change Relationship = 0
+Unique ID Match = 0
+Unique ID Hash = 0
+Effective Date = 0
+
+
+
+SUBSCRIBER ERRORS
+
+
+
+SUBSCRIBERS ADDED
+
+
+
+FUTURE ADD SUBSCRIBERS
+Row 2: Future Subscriber Added - Subscriber ID 825216634258 - J. Berrong
+
+Row 3: Future Subscriber Added - Subscriber ID 080757664682 - A. Miller
+
+Row 4: Future Subscriber Added - Subscriber ID 802612895426 - M. Manning
+
+Row 5: Future Subscriber Added - Subscriber ID 189614413498 - D. Manning
+
+Row 6: Future Subscriber Added - Subscriber ID 165523803174 - B. Breslin
+
+Row 7: Future Subscriber Added - Subscriber ID 354806515576 - C. Jones
+
+Row 8: Future Subscriber Added - Subscriber ID 018367283746 - D. Lizut-Hull
+
+Row 9: Future Subscriber Added - Subscriber ID 027434870361 - R. Sassler
+
+Row 10: Future Subscriber Added - Subscriber ID 913561162909 - J. Mazur
+
+Row 11: Future Subscriber Added - Subscriber ID 727091703447 - R. Haddock
+
+Row 12: Future Subscriber Added - Subscriber ID 934060151408 - R. Turner
+
+Row 13: Future Subscriber Added - Subscriber ID 524825797507 - D. Turner
+
+Row 14: Future Subscriber Added - Subscriber ID 687021724121 - J. Pinson
+
+Row 15: Future Subscriber Added - Subscriber ID 147387140632 - C. Schultz
+
+Row 16: Future Subscriber Added - Subscriber ID 112863521324 - C. Turner
+
+Row 17: Future Subscriber Added - Subscriber ID 506019134863 - A. Turner
+
+Row 18: Future Subscriber Added - Subscriber ID 677630951248 - K. Hoffman
+
+Row 19: Future Subscriber Added - Subscriber ID 500633083785 - J. Hoffman
+
+Row 20: Future Subscriber Added - Subscriber ID 708185452216 - M. Hoffman
+
+Row 21: Future Subscriber Added - Subscriber ID 311535396459 - J. Hoffman
+
+Row 22: Future Subscriber Added - Subscriber ID 768147717626 - C. Covert
+
+Row 23: Future Subscriber Added - Subscriber ID 171393034288 - M. Brown
+
+Row 24: Future Subscriber Added - Subscriber ID 817453330254 - H. Brown
+
+Row 25: Future Subscriber Added - Subscriber ID 925788495535 - A. Casas-Melley
+
+Row 26: Future Subscriber Added - Subscriber ID 938457238084 - D. Melley
+
+Row 27: Future Subscriber Added - Subscriber ID 427443845323 - P. Melley
+
+Row 28: Future Subscriber Added - Subscriber ID 263826410356 - M. Melley
+
+Row 29: Future Subscriber Added - Subscriber ID 080988320165 - P. Melley
+
+Row 30: Future Subscriber Added - Subscriber ID 440982318790 - P. Melley
+
+Row 31: Future Subscriber Added - Subscriber ID 432467175264 - T. Young
+
+Row 32: Future Subscriber Added - Subscriber ID 096103748747 - Y. Velasquez
+
+Row 33: Future Subscriber Added - Subscriber ID 988857991148 - C. Velasquez
+
+Row 34: Future Subscriber Added - Subscriber ID 965581991601 - O. Elidemir
+
+Row 35: Future Subscriber Added - Subscriber ID 986851559444 - C. Kennedy
+
+Row 36: Future Subscriber Added - Subscriber ID 234358254703 - J. Kennedy
+
+Row 37: Future Subscriber Added - Subscriber ID 992053251847 - K. Kennedy
+
+Row 38: Future Subscriber Added - Subscriber ID 992936350795 - K. Milovcich
+
+Row 39: Future Subscriber Added - Subscriber ID 610191480796 - P. Davis
+
+Row 40: Future Subscriber Added - Subscriber ID 012106806190 - D. Lee-Drysdale
+
+Row 41: Future Subscriber Added - Subscriber ID 726805377486 - N. Butts
+
+Row 42: Future Subscriber Added - Subscriber ID 535604306626 - B. Butts
+
+Row 43: Future Subscriber Added - Subscriber ID 217926999579 - R. Butts
+
+Row 44: Future Subscriber Added - Subscriber ID 016865529099 - B. Lennon
+
+Row 45: Future Subscriber Added - Subscriber ID 520282914606 - J. Dispenziere
+
+Row 46: Future Subscriber Added - Subscriber ID 296154166742 - K. Dispenziere
+
+Row 47: Future Subscriber Added - Subscriber ID 394203266385 - E. Pearl
+
+Row 48: Future Subscriber Added - Subscriber ID 686046666281 - E. Antico
+
+Row 49: Future Subscriber Added - Subscriber ID 697272511032 - K. Young-Conner
+
+Row 50: Future Subscriber Added - Subscriber ID 468097555269 - R. Conner
+
+Row 51: Future Subscriber Added - Subscriber ID 826555724442 - C. Rose
+
+Row 52: Future Subscriber Added - Subscriber ID 703807053953 - R. Rose
+
+Row 53: Future Subscriber Added - Subscriber ID 619235128883 - A. Wheeler
+
+Row 54: Future Subscriber Added - Subscriber ID 355800070461 - L. Grissom
+
+Row 55: Future Subscriber Added - Subscriber ID 176562934857 - W. Poteau
+
+Row 56: Future Subscriber Added - Subscriber ID 470268594084 - M. Sutherland
+
+Row 57: Future Subscriber Added - Subscriber ID 092138245902 - K. Aloi
+
+Row 58: Future Subscriber Added - Subscriber ID 295671418445 - K. Most
+
+Row 59: Future Subscriber Added - Subscriber ID 395893302515 - K. Most
+
+Row 60: Future Subscriber Added - Subscriber ID 440040269827 - N. Most
+
+Row 61: Future Subscriber Added - Subscriber ID 979823362842 - A. Dorsey
+
+Row 62: Future Subscriber Added - Subscriber ID 272434079174 - A. Dorsey
+
+Row 63: Future Subscriber Added - Subscriber ID 100183880763 - A. Dorsey
+
+Row 64: Future Subscriber Added - Subscriber ID 009393511864 - A. Dorsey
+
+Row 65: Future Subscriber Added - Subscriber ID 372389709818 - C. Love Dorsey
+
+Row 66: Future Subscriber Added - Subscriber ID 106272583522 - E. Waczynski
+
+Row 67: Future Subscriber Added - Subscriber ID 973069596735 - R. Waczynski
+
+Row 68: Future Subscriber Added - Subscriber ID 705786506134 - P. Panansewicz
+
+Row 69: Future Subscriber Added - Subscriber ID 493745933249 - J. Panansewicz
+
+Row 70: Future Subscriber Added - Subscriber ID 299972443912 - T. Riegner
+
+Row 71: Future Subscriber Added - Subscriber ID 572285725009 - A. Vitale
+
+Row 72: Future Subscriber Added - Subscriber ID 593927847834 - C. Vitale Sr
+
+Row 73: Future Subscriber Added - Subscriber ID 188470637966 - C. Colella
+
+Row 74: Future Subscriber Added - Subscriber ID 538039998380 - S. Mccallister
+
+Row 75: Future Subscriber Added - Subscriber ID 075759267015 - W. Mccallister
+
+Row 76: Future Subscriber Added - Subscriber ID 188885438341 - J. Medina
+
+Row 77: Future Subscriber Added - Subscriber ID 241179286852 - M. Olbrich
+
+Row 78: Future Subscriber Added - Subscriber ID 879681109088 - W. Olbrich
+
+Row 79: Future Subscriber Added - Subscriber ID 532376500627 - S. Winslow
+
+Row 80: Future Subscriber Added - Subscriber ID 645321519578 - A. Winslow
+
+Row 81: Future Subscriber Added - Subscriber ID 688696450698 - D. Stabley
+
+Row 82: Future Subscriber Added - Subscriber ID 248310075618 - H. Byck
+
+Row 83: Future Subscriber Added - Subscriber ID 769726585345 - T. Stetson
+
+Row 84: Future Subscriber Added - Subscriber ID 090069894725 - R. Stetson
+
+Row 85: Future Subscriber Added - Subscriber ID 733294071043 - M. Thompson
+
+Row 86: Future Subscriber Added - Subscriber ID 692127626723 - C. Denver
+
+Row 87: Future Subscriber Added - Subscriber ID 612085668997 - J. Muller
+
+Row 88: Future Subscriber Added - Subscriber ID 405609968181 - R. Ritterman
+
+Row 89: Future Subscriber Added - Subscriber ID 853526898106 - S. Ritterman
+
+Row 90: Future Subscriber Added - Subscriber ID 673562312872 - J. Greenspan
+
+Row 91: Future Subscriber Added - Subscriber ID 779688773036 - D. Magnuson
+
+Row 92: Future Subscriber Added - Subscriber ID 716536103550 - J. Magnuson
+
+Row 93: Future Subscriber Added - Subscriber ID 782069346205 - S. Bergan
+
+Row 94: Future Subscriber Added - Subscriber ID 073476157701 - J. Cooper
+
+Row 95: Future Subscriber Added - Subscriber ID 421776854051 - E. Cooper
+
+Row 96: Future Subscriber Added - Subscriber ID 095725232570 - M. Cooper
+
+Row 97: Future Subscriber Added - Subscriber ID 185965108285 - M. Pizzi
+
+Row 98: Future Subscriber Added - Subscriber ID 870376486958 - T. Steele
+
+Row 99: Future Subscriber Added - Subscriber ID 581749858454 - Z. Steele
+
+Row 100: Future Subscriber Added - Subscriber ID 065893370418 - T. Bates
+
+Row 101: Future Subscriber Added - Subscriber ID 167752601785 - F. Steele
+
+Row 102: Future Subscriber Added - Subscriber ID 771517013593 - E. Garcia
+
+Row 103: Future Subscriber Added - Subscriber ID 930072998664 - L. Lietzke
+
+Row 104: Future Subscriber Added - Subscriber ID 924003570732 - R. Lietzke
+
+Row 105: Future Subscriber Added - Subscriber ID 433883186284 - E. Forcina
+
+Row 106: Future Subscriber Added - Subscriber ID 474230733234 - S. Porth
+
+Row 107: Future Subscriber Added - Subscriber ID 592665808297 - M. Jackson
+
+Row 108: Future Subscriber Added - Subscriber ID 605323871205 - S. Fair
+
+Row 109: Future Subscriber Added - Subscriber ID 378691140317 - H. Quinn
+
+Row 110: Future Subscriber Added - Subscriber ID 807636397939 - M. Bomba
+
+Row 111: Future Subscriber Added - Subscriber ID 217437964733 - T. Tolbert
+
+Row 112: Future Subscriber Added - Subscriber ID 948980760434 - C. Tolbert
+
+Row 113: Future Subscriber Added - Subscriber ID 163956988621 - L. Young
+
+Row 114: Future Subscriber Added - Subscriber ID 328791186084 - R. Huelar
+
+Row 115: Future Subscriber Added - Subscriber ID 050003520816 - T. Huelar
+
+Row 116: Future Subscriber Added - Subscriber ID 505478500380 - G. Huelar
+
+Row 117: Future Subscriber Added - Subscriber ID 599198504615 - M. Veloski
+
+Row 118: Future Subscriber Added - Subscriber ID 967059710257 - L. Veloski
+
+Row 119: Future Subscriber Added - Subscriber ID 108146296116 - D. Gratale
+
+Row 120: Future Subscriber Added - Subscriber ID 066427923738 - T. Repetti
+
+Row 121: Future Subscriber Added - Subscriber ID 709835645460 - S. Ramirez Sanchez
+
+Row 122: Future Subscriber Added - Subscriber ID 080701307950 - J. DelgadoRamirez
+
+Row 123: Future Subscriber Added - Subscriber ID 643026906989 - F. Delgado Dominguez
+
+Row 124: Future Subscriber Added - Subscriber ID 444090098069 - J. Davidson
+
+Row 125: Future Subscriber Added - Subscriber ID 109995969372 - G. Davidson
+
+Row 126: Future Subscriber Added - Subscriber ID 962561516915 - B. Kakavand
+
+Row 127: Future Subscriber Added - Subscriber ID 025932852841 - A. Kakavand
+
+Row 128: Future Subscriber Added - Subscriber ID 348275572839 - A. Kakavand
+
+Row 129: Future Subscriber Added - Subscriber ID 080682194787 - P. Parvizi Afshar
+
+Row 130: Future Subscriber Added - Subscriber ID 963148373201 - J. Natal
+
+Row 131: Future Subscriber Added - Subscriber ID 858041040009 - M. Tompkins
+
+Row 132: Future Subscriber Added - Subscriber ID 228796593817 - J. Lam
+
+Row 133: Future Subscriber Added - Subscriber ID 655075151965 - A. Laboy
+
+Row 134: Future Subscriber Added - Subscriber ID 060171003973 - C. Ojevwe
+
+Row 135: Future Subscriber Added - Subscriber ID 632914789286 - I. Ojevwe
+
+Row 136: Future Subscriber Added - Subscriber ID 792999506514 - L. Wasko
+
+Row 137: Future Subscriber Added - Subscriber ID 624012485777 - E. Medina
+
+Row 138: Future Subscriber Added - Subscriber ID 146065745034 - K. Boyer
+
+Row 139: Future Subscriber Added - Subscriber ID 984646019510 - M. Mccafferty
+
+Row 140: Future Subscriber Added - Subscriber ID 769336041647 - M. Amerstein
+
+Row 141: Future Subscriber Added - Subscriber ID 222726124689 - J. Amerstein
+
+Row 142: Future Subscriber Added - Subscriber ID 390241317241 - E. Amerstein
+
+Row 143: Future Subscriber Added - Subscriber ID 855920742015 - M. Amerstein
+
+Row 144: Future Subscriber Added - Subscriber ID 637096025059 - M. Bailey
+
+Row 145: Future Subscriber Added - Subscriber ID 281906092684 - R. Bailey
+
+Row 146: Future Subscriber Added - Subscriber ID 669961434244 - B. Selvey
+
+Row 147: Future Subscriber Added - Subscriber ID 847342360561 - B. Selvey
+
+Row 148: Future Subscriber Added - Subscriber ID 170439995892 - R. Bailey
+
+Row 149: Future Subscriber Added - Subscriber ID 935459843578 - D. Bledsoe
+
+Row 150: Future Subscriber Added - Subscriber ID 814960087030 - A. Mcmathis
+
+Row 151: Future Subscriber Added - Subscriber ID 920509703348 - L. Shontz
+
+Row 152: Future Subscriber Added - Subscriber ID 322680572969 - A. Drohan
+
+Row 153: Future Subscriber Added - Subscriber ID 978781873833 - B. Kelly
+
+Row 154: Future Subscriber Added - Subscriber ID 804148071340 - S. Guarino
+
+Row 155: Future Subscriber Added - Subscriber ID 397684582350 - J. Guarino
+
+Row 156: Future Subscriber Added - Subscriber ID 547821211626 - J. Guarino
+
+Row 157: Future Subscriber Added - Subscriber ID 524658698467 - K. Bloh
+
+Row 158: Future Subscriber Added - Subscriber ID 915151105998 - L. Jenkins
+
+Row 159: Future Subscriber Added - Subscriber ID 019282834290 - M. Jenkins
+
+Row 160: Future Subscriber Added - Subscriber ID 160916608224 - M. Jenkins
+
+Row 161: Future Subscriber Added - Subscriber ID 434034836764 - M. Jenkins
+
+Row 162: Future Subscriber Added - Subscriber ID 057587594696 - L. Navarro
+
+Row 163: Future Subscriber Added - Subscriber ID 367289623136 - D. Navarro
+
+Row 164: Future Subscriber Added - Subscriber ID 510196592340 - L. Holmes
+
+Row 165: Future Subscriber Added - Subscriber ID 109679205924 - R. Holmes
+
+Row 166: Future Subscriber Added - Subscriber ID 997200951970 - J. Brisco
+
+Row 167: Future Subscriber Added - Subscriber ID 620864885842 - C. BarnettBrisco
+
+Row 168: Future Subscriber Added - Subscriber ID 873376765495 - B. Mcdugall
+
+Row 169: Future Subscriber Added - Subscriber ID 481688751738 - G. Kiebzak
+
+Row 170: Future Subscriber Added - Subscriber ID 226711998336 - A. Kiebzak
+
+Row 171: Future Subscriber Added - Subscriber ID 903552190259 - M. Weitermann
+
+Row 172: Future Subscriber Added - Subscriber ID 134208120702 - H. Stevenson
+
+Row 173: Future Subscriber Added - Subscriber ID 802735435780 - M. Stevenson
+
+Row 174: Future Subscriber Added - Subscriber ID 990026039460 - J. Hipp
+
+Row 175: Future Subscriber Added - Subscriber ID 273353543727 - R. Hipp
+
+Row 176: Future Subscriber Added - Subscriber ID 360848938040 - S. Villacres
+
+Row 177: Future Subscriber Added - Subscriber ID 744690718053 - M. Villacres
+
+Row 178: Future Subscriber Added - Subscriber ID 317789426500 - F. Villacres
+
+Row 179: Future Subscriber Added - Subscriber ID 304219284653 - J. Cummings
+
+Row 180: Future Subscriber Added - Subscriber ID 725620962731 - J. English
+
+Row 181: Future Subscriber Added - Subscriber ID 783333474995 - C. Flick
+
+Row 182: Future Subscriber Added - Subscriber ID 823399671234 - J. Respress
+
+Row 183: Future Subscriber Added - Subscriber ID 321504673917 - M. Wellmeier
+
+Row 184: Future Subscriber Added - Subscriber ID 364854347776 - L. Wellmeier
+
+Row 185: Future Subscriber Added - Subscriber ID 643876309469 - L. Wellmeier
+
+Row 186: Future Subscriber Added - Subscriber ID 927228964440 - N. Wilson
+
+Row 187: Future Subscriber Added - Subscriber ID 984661236613 - H. Wilson
+
+Row 188: Future Subscriber Added - Subscriber ID 244280173805 - M. Lopez Da Re
+
+Row 189: Future Subscriber Added - Subscriber ID 702156245601 - C. Lopez
+
+Row 190: Future Subscriber Added - Subscriber ID 834496821249 - S. Lopez
+
+Row 191: Future Subscriber Added - Subscriber ID 257548118423 - M. Lopez
+
+Row 192: Future Subscriber Added - Subscriber ID 157618801250 - M. Villalba
+
+Row 193: Future Subscriber Added - Subscriber ID 933057083747 - K. Appenzeller
+
+Row 194: Future Subscriber Added - Subscriber ID 558401716577 - N. Smith
+
+Row 195: Future Subscriber Added - Subscriber ID 358583676972 - C. Shah
+
+Row 196: Future Subscriber Added - Subscriber ID 670954710551 - N. Hassan
+
+Row 197: Future Subscriber Added - Subscriber ID 632280025874 - J. Hassan
+
+Row 198: Future Subscriber Added - Subscriber ID 232939207203 - A. Montemayor
+
+Row 199: Future Subscriber Added - Subscriber ID 774820983212 - A. Ramirez
+
+Row 200: Future Subscriber Added - Subscriber ID 225812236420 - N. Hassan
+
+Row 201: Future Subscriber Added - Subscriber ID 440270657040 - J. Pasko
+
+Row 202: Future Subscriber Added - Subscriber ID 149461793274 - C. Bailey
+
+
+
+
+SUBSCRIBERS CANCELED
+
+
+
+FUTURE DROP SUBSCRIBERS
+
+
+
+SUBSCRIBERS NOT IN FILE - CANCELED

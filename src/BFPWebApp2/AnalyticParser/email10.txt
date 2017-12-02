@@ -1,0 +1,332 @@
+Results for Benefit Express Parent on 2017-06-22:
+Started at 1500311057
+
+File /infoarmor/enrollments/customers/benefitexpress-270/inbound/FloydMemorial_To_InfoArmor_CAD_20170717.csv
+Customer ID: 270, Has a Coupon: 0
+Batch Results
+Enrollment Time = 0 seconds
+Adds = 0/68
+Updates = 0/0
+Drops = 0/0
+Dependent Drops = 0
+Future Adds = 0
+Future Drops = 0
+Errors = 68
+
+
+Errors:
+Missing columns = 219
+Invalid customerid = 0
+Nonmatching customerid = 68
+Firstname = 0
+Middlename = 0
+Lastname = 0
+Employee id = 0
+Address1 = 0
+Zipcode = 0
+Unique id = 0
+Creditcard = 0
+Family id = 0
+Plan type = 0
+Unique id hash = 0
+Failed cancel = 0
+Failed modify = 0
+Ineligible = 0
+Productid = 0
+
+
+
+SUBSCRIBER ERRORS
+Row 2: Subscriber Not Enrolled - Non-Matching Client ID
+Row 3: Error - missing fields
+Row 4: Error - missing fields
+Row 5: Error - missing fields
+Row 6: Error - missing fields
+Row 7: Subscriber Not Enrolled - Non-Matching Client ID
+Row 8: Error - missing fields
+Row 9: Subscriber Not Enrolled - Non-Matching Client ID
+Row 10: Subscriber Not Enrolled - Non-Matching Client ID
+Row 11: Subscriber Not Enrolled - Non-Matching Client ID
+Row 12: Error - missing fields
+Row 13: Error - missing fields
+Row 14: Error - missing fields
+Row 15: Subscriber Not Enrolled - Non-Matching Client ID
+Row 16: Error - missing fields
+Row 17: Error - missing fields
+Row 18: Error - missing fields
+Row 19: Subscriber Not Enrolled - Non-Matching Client ID
+Row 20: Error - missing fields
+Row 21: Subscriber Not Enrolled - Non-Matching Client ID
+Row 22: Error - missing fields
+Row 23: Error - missing fields
+Row 24: Error - missing fields
+Row 25: Error - missing fields
+Row 26: Error - missing fields
+Row 27: Error - missing fields
+Row 28: Error - missing fields
+Row 29: Error - missing fields
+Row 30: Subscriber Not Enrolled - Non-Matching Client ID
+Row 31: Subscriber Not Enrolled - Non-Matching Client ID
+Row 32: Error - missing fields
+Row 33: Error - missing fields
+Row 34: Error - missing fields
+Row 35: Error - missing fields
+Row 36: Subscriber Not Enrolled - Non-Matching Client ID
+Row 37: Error - missing fields
+Row 38: Error - missing fields
+Row 39: Error - missing fields
+Row 40: Error - missing fields
+Row 41: Error - missing fields
+Row 42: Error - missing fields
+Row 43: Subscriber Not Enrolled - Non-Matching Client ID
+Row 44: Error - missing fields
+Row 45: Error - missing fields
+Row 46: Error - missing fields
+Row 47: Error - missing fields
+Row 48: Error - missing fields
+Row 49: Error - missing fields
+Row 50: Error - missing fields
+Row 51: Error - missing fields
+Row 52: Subscriber Not Enrolled - Non-Matching Client ID
+Row 53: Error - missing fields
+Row 54: Error - missing fields
+Row 55: Subscriber Not Enrolled - Non-Matching Client ID
+Row 56: Error - missing fields
+Row 57: Subscriber Not Enrolled - Non-Matching Client ID
+Row 58: Error - missing fields
+Row 59: Error - missing fields
+Row 60: Error - missing fields
+Row 61: Subscriber Not Enrolled - Non-Matching Client ID
+Row 62: Error - missing fields
+Row 63: Error - missing fields
+Row 64: Error - missing fields
+Row 65: Error - missing fields
+Row 66: Error - missing fields
+Row 67: Error - missing fields
+Row 68: Error - missing fields
+Row 69: Subscriber Not Enrolled - Non-Matching Client ID
+Row 70: Error - missing fields
+Row 71: Subscriber Not Enrolled - Non-Matching Client ID
+Row 72: Subscriber Not Enrolled - Non-Matching Client ID
+Row 73: Error - missing fields
+Row 74: Error - missing fields
+Row 75: Error - missing fields
+Row 76: Subscriber Not Enrolled - Non-Matching Client ID
+Row 77: Error - missing fields
+Row 78: Subscriber Not Enrolled - Non-Matching Client ID
+Row 79: Error - missing fields
+Row 80: Error - missing fields
+Row 81: Subscriber Not Enrolled - Non-Matching Client ID
+Row 82: Error - missing fields
+Row 83: Subscriber Not Enrolled - Non-Matching Client ID
+Row 84: Subscriber Not Enrolled - Non-Matching Client ID
+Row 85: Error - missing fields
+Row 86: Error - missing fields
+Row 87: Error - missing fields
+Row 88: Error - missing fields
+Row 89: Error - missing fields
+Row 90: Error - missing fields
+Row 91: Subscriber Not Enrolled - Non-Matching Client ID
+Row 92: Error - missing fields
+Row 93: Subscriber Not Enrolled - Non-Matching Client ID
+Row 94: Error - missing fields
+Row 95: Error - missing fields
+Row 96: Error - missing fields
+Row 97: Error - missing fields
+Row 98: Error - missing fields
+Row 99: Error - missing fields
+Row 100: Error - missing fields
+Row 101: Error - missing fields
+Row 102: Subscriber Not Enrolled - Non-Matching Client ID
+Row 103: Error - missing fields
+Row 104: Error - missing fields
+Row 105: Subscriber Not Enrolled - Non-Matching Client ID
+Row 106: Error - missing fields
+Row 107: Subscriber Not Enrolled - Non-Matching Client ID
+Row 108: Error - missing fields
+Row 109: Error - missing fields
+Row 110: Error - missing fields
+Row 111: Error - missing fields
+Row 112: Error - missing fields
+Row 113: Error - missing fields
+Row 114: Error - missing fields
+Row 115: Error - missing fields
+Row 116: Error - missing fields
+Row 117: Subscriber Not Enrolled - Non-Matching Client ID
+Row 118: Error - missing fields
+Row 119: Subscriber Not Enrolled - Non-Matching Client ID
+Row 120: Error - missing fields
+Row 121: Subscriber Not Enrolled - Non-Matching Client ID
+Row 122: Error - missing fields
+Row 123: Error - missing fields
+Row 124: Subscriber Not Enrolled - Non-Matching Client ID
+Row 125: Error - missing fields
+Row 126: Error - missing fields
+Row 127: Error - missing fields
+Row 128: Subscriber Not Enrolled - Non-Matching Client ID
+Row 129: Error - missing fields
+Row 130: Subscriber Not Enrolled - Non-Matching Client ID
+Row 131: Subscriber Not Enrolled - Non-Matching Client ID
+Row 132: Subscriber Not Enrolled - Non-Matching Client ID
+Row 133: Error - missing fields
+Row 134: Error - missing fields
+Row 135: Subscriber Not Enrolled - Non-Matching Client ID
+Row 136: Error - missing fields
+Row 137: Error - missing fields
+Row 138: Error - missing fields
+Row 139: Subscriber Not Enrolled - Non-Matching Client ID
+Row 140: Error - missing fields
+Row 141: Subscriber Not Enrolled - Non-Matching Client ID
+Row 142: Error - missing fields
+Row 143: Error - missing fields
+Row 144: Subscriber Not Enrolled - Non-Matching Client ID
+Row 145: Error - missing fields
+Row 146: Error - missing fields
+Row 147: Error - missing fields
+Row 148: Error - missing fields
+Row 149: Error - missing fields
+Row 150: Error - missing fields
+Row 151: Subscriber Not Enrolled - Non-Matching Client ID
+Row 152: Error - missing fields
+Row 153: Error - missing fields
+Row 154: Error - missing fields
+Row 155: Error - missing fields
+Row 156: Error - missing fields
+Row 157: Subscriber Not Enrolled - Non-Matching Client ID
+Row 158: Subscriber Not Enrolled - Non-Matching Client ID
+Row 159: Error - missing fields
+Row 160: Error - missing fields
+Row 161: Error - missing fields
+Row 162: Subscriber Not Enrolled - Non-Matching Client ID
+Row 163: Error - missing fields
+Row 164: Error - missing fields
+Row 165: Subscriber Not Enrolled - Non-Matching Client ID
+Row 166: Error - missing fields
+Row 167: Subscriber Not Enrolled - Non-Matching Client ID
+Row 168: Subscriber Not Enrolled - Non-Matching Client ID
+Row 169: Error - missing fields
+Row 170: Subscriber Not Enrolled - Non-Matching Client ID
+Row 171: Error - missing fields
+Row 172: Error - missing fields
+Row 173: Error - missing fields
+Row 174: Error - missing fields
+Row 175: Error - missing fields
+Row 176: Error - missing fields
+Row 177: Error - missing fields
+Row 178: Error - missing fields
+Row 179: Error - missing fields
+Row 180: Error - missing fields
+Row 181: Error - missing fields
+Row 182: Error - missing fields
+Row 183: Error - missing fields
+Row 184: Error - missing fields
+Row 185: Error - missing fields
+Row 186: Error - missing fields
+Row 187: Error - missing fields
+Row 188: Error - missing fields
+Row 189: Error - missing fields
+Row 190: Error - missing fields
+Row 191: Error - missing fields
+Row 192: Error - missing fResultsforBenefitExpressParenton2017-06-22:
+-Matching Client ID
+Row 194: Error - missing fields
+Row 195: Error - missing fields
+Row 196: Subscriber Not Enrolled - Non-Matching Client ID
+Row 197: Error - missing fields
+Row 198: Error - missing fields
+Row 199: Error - missing fields
+Row 200: Subscriber Not Enrolled - Non-Matching Client ID
+Row 201: Error - missing fields
+Row 202: Error - missing fields
+Row 203: Error - missing fields
+Row 204: Error - missing fields
+Row 205: Error - missing fields
+Row 206: Error - missing fields
+Row 207: Subscriber Not Enrolled - Non-Matching Client ID
+Row 208: Error - missing fields
+Row 209: Error - missing fields
+Row 210: Error - missing fields
+Row 211: Error - missing fields
+Row 212: Subscriber Not Enrolled - Non-Matching Client ID
+Row 213: Error - missing fields
+Row 214: Error - missing fields
+Row 215: Error - missing fields
+Row 216: Subscriber Not Enrolled - Non-Matching Client ID
+Row 217: Error - missing fields
+Row 218: Subscriber Not Enrolled - Non-Matching Client ID
+Row 219: Error - missing fields
+Row 220: Error - missing fields
+Row 221: Error - missing fields
+Row 222: Error - missing fields
+Row 223: Error - missing fields
+Row 224: Subscriber Not Enrolled - Non-Matching Client ID
+Row 225: Error - missing fields
+Row 226: Error - missing fields
+Row 227: Error - missing fields
+Row 228: Error - missing fields
+Row 229: Error - missing fields
+Row 230: Subscriber Not Enrolled - Non-Matching Client ID
+Row 231: Subscriber Not Enrolled - Non-Matching Client ID
+Row 232: Error - missing fields
+Row 233: Error - missing fields
+Row 234: Subscriber Not Enrolled - Non-Matching Client ID
+Row 235: Error - missing fields
+Row 236: Subscriber Not Enrolled - Non-Matching Client ID
+Row 237: Error - missing fields
+Row 238: Error - missing fields
+Row 239: Error - missing fields
+Row 240: Error - missing fields
+Row 241: Error - missing fields
+Row 242: Error - missing fields
+Row 243: Error - missing fields
+Row 244: Error - missing fields
+Row 245: Error - missing fields
+Row 246: Error - missing fields
+Row 247: Error - missing fields
+Row 248: Subscriber Not Enrolled - Non-Matching Client ID
+Row 249: Error - missing fields
+Row 250: Error - missing fields
+Row 251: Error - missing fields
+Row 252: Error - missing fields
+Row 253: Error - missing fields
+Row 254: Error - missing fields
+Row 255: Subscriber Not Enrolled - Non-Matching Client ID
+Row 256: Subscriber Not Enrolled - Non-Matching Client ID
+Row 257: Subscriber Not Enrolled - Non-Matching Client ID
+Row 258: Error - missing fields
+Row 259: Error - missing fields
+Row 260: Error - missing fields
+Row 261: Error - missing fields
+Row 262: Error - missing fields
+Row 263: Error - missing fields
+Row 264: Error - missing fields
+Row 265: Subscriber Not Enrolled - Non-Matching Client ID
+Row 266: Error - missing fields
+Row 267: Error - missing fields
+Row 268: Error - missing fields
+Row 269: Error - missing fields
+Row 270: Error - missing fields
+Row 271: Error - missing fields
+Row 272: Error - missing fields
+Row 273: Error - missing fields
+Row 274: Error - missing fields
+Row 275: Error - missing fields
+Row 276: Error - missing fields
+Row 277: Error - missing fields
+Row 278: Subscriber Not Enrolled - Non-Matching Client ID
+Row 279: Error - missing fields
+Row 280: Error - missing fields
+Row 281: Error - missing fields
+Row 282: Error - missing fields
+Row 283: Subscriber Not Enrolled - Non-Matching Client ID
+Row 284: Error - missing fields
+Row 285: Error - missing fields
+Row 286: Error - missing fields
+Row 287: Error - missing fields
+Row 288: Error - missing fields
+SUBSCRIBERS ADDED
+FUTURE ADD SUBSCRIBERS
+SUBSCRIBERS UPDATED
+SUBSCRIBERS CANCELED
+FUTURE DROP SUBSCRIBERS
+SUBSCRIBERS NOT IN FILE - CANCELED

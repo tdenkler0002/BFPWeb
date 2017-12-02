@@ -1,0 +1,44 @@
+Results for Hartfiel Automation on 2017-06-22:
+Started at 1498151979
+
+File Hartfiel_TEST_20170622.csv
+Customer ID: 1491, Has a Coupon: 0
+Batch Results
+Enrollment Time = 1 seconds
+Adds = 0/0
+Updates = 0/2
+Drops = 0/0
+Dependent Drops = 0
+Future Adds = 0
+Future Drops = 0
+Errors = 2
+
+
+Errors:
+Missing columns = 0
+Invalid customerid = 0
+Nonmatching customerid = 0
+Firstname = 0
+Middlename = 0
+Lastname = 0
+Employee id = 0
+Address1 = 0
+Zipcode = 0
+Unique id = 0
+Creditcard = 0
+Family id = 0
+Plan type = 0
+Unique id hash = 0
+Failed cancel = 0
+Failed modify = 2
+Ineligible = 0
+Productid = 0
+
+
+
+SUBSCRIBER ERRORS
+Row 2: Error - Subscriber could not be updated, account canceled - R. Acors
+Row 3: Error - Subscriber could not be updated, account canceled - S. Albrecht
+
+
+

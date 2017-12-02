@@ -13,7 +13,9 @@ from rest_framework import status
 from rest_framework.renderers import TemplateHTMLRenderer
 import os
 from django.conf import settings
+from .AnalyticParser import *
 from annoying.decorators import ajax_request
+import pandas as pd
 
 class FileView(generics.ListCreateAPIView):
   queryset = Document.objects.all()
@@ -46,7 +48,7 @@ class documentList(APIView):
 
 class HomePage(generic.TemplateView):
     template_name = "home.html"
-
+    # Remove function to get to work..
     @ajax_request
     def json_files(request, dir_name):
         path = os.path.join(settings.MEDIA_ROOT, dir_name)
@@ -58,6 +60,12 @@ class HomePage(generic.TemplateView):
 
 class AboutPage(generic.TemplateView):
     template_name = "about.html"
+
+    def test(request):
+        data = pd.read_csv('BFPWebApp2/AnalyticParser/data.csv', index_col=None)
+        data_html = data.to_html()
+        context = {'loaded_data': data_html}
+        return render(request, 'about.html', context)
 
 class SuccessPage(generic.TemplateView):
     template_name = "sucess.html"

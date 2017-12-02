@@ -1,0 +1,38 @@
+Results for BusinessSolver on 2017-06-22:
+Started at 1498151734
+
+File BBVA_FULL_20170622.csv
+Customer ID: 1119, Has a Coupon: 0
+Batch Results
+Enrollment Time = 21 seconds
+Adds = 0/1122
+Updates = 0/0
+Drops = 0/0
+Dependent Drops = 14
+Future Adds = 0
+Future Drops = 18
+Errors = 1122
+
+
+Errors:
+Missing columns = 0
+Invalid customerid = 0
+Nonmatching customerid = 0
+Firstname = 0
+Middlename = 0
+Lastname = 0
+Employee id = 0
+Address1 = 0
+Zipcode = 0
+Unique id = 1122
+Creditcard = 0
+Family id = 0
+Plan type = 0
+Unique id hash = 0
+Failed cancel = 0
+Failed modify = 0
+Ineligible = 0
+Productid = 0
+
+
+

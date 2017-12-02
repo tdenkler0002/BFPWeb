@@ -1,0 +1,758 @@
+Results for Caesars Entertainment on 2017-11-14:
+Started on 2017-11-14 22:38:34
+
+See our legend for detailed resolution instructions
+
+File Caesars_To_IA_TEST_20171114202145.csv
+Customer ID: 1818
+
+Batch Results
+Adds = 0/1272
+Future Adds = 131
+Drops = 0/0
+Dependent Drops = 0
+Future Drops = 0
+Updates = 0/0
+Errors = 176
+Warnings = 1057
+
+
+Errors: Errors indicate the row was not acted upon. Please correct and resubmit row(s) for encountered errors. See our legend for detailed resolution instructions.
+Field Count Discrepancy = 0
+Non-Matching ClientID = 176
+Non-Numeric ClientID = 0
+Member First Name = 0
+Member Middle Name = 0
+Member Last Name = 0
+Duplicate SSN = 0
+Employee ID = 0
+Address = 0
+Family ID = 76
+Plan Type = 0
+Failed Change = 0
+Ineligible Participant = 0
+Product ID = 176
+
+Warnings: Warnings indicate an issue requiring resolution. Please correct for subsequent files. The row was processed successfully. See our legend for detailed resolution instructions.
+Invalid SSN = 15
+Zip Code = 1
+Failed Cancel = 0
+Invalid Date of Birth = 0
+Change Relationship = 76
+Unique ID Match = 965
+Unique ID Hash = 0
+Effective Date = 0
+
+
+
+SUBSCRIBER ERRORS
+Row 1098: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1098: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - P. Roskey
+Row 1098: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - P. Roskey
+Row 1099: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1099: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - B. Roskey
+Row 1099: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - B. Roskey
+Row 1100: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1100: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - A. Green
+Row 1101: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1101: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - T. COX
+Row 1102: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1102: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - J. Forte
+Row 1103: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1103: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - J. Sasahara
+Row 1104: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1104: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - M. Sasahara
+Row 1104: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - M. Sasahara
+Row 1105: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1105: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - J. Sasahara
+Row 1105: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - J. Sasahara
+Row 1106: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1106: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - J. Sasahara
+Row 1106: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - J. Sasahara
+Row 1107: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1107: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - J. Sasahara
+Row 1107: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - J. Sasahara
+Row 1108: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1108: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - J. Sherrard
+Row 1109: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1109: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - R. Defranco
+Row 1110: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1110: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - A. Nova Vences
+Row 1110: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - A. Nova Vences
+Row 1111: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1111: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - F. Salinas Nova
+Row 1111: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - F. Salinas Nova
+Row 1112: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1112: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - A. DeFranco
+Row 1112: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - A. DeFranco
+Row 1113: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1113: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - M. DeFranco
+Row 1113: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - M. DeFranco
+Row 1114: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1114: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - J. Golubski
+Row 1115: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1115: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - J. Bell
+Row 1116: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1116: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - N. Banks
+Row 1117: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1117: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - Z. Williams
+Row 1118: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1118: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - D. Endre
+Row 1119: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1119: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - M. Endre
+Row 1119: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - M. Endre
+Row 1120: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1120: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - A. Endre
+Row 1120: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - A. Endre
+Row 1121: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1121: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - L. Endre
+Row 1121: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - L. Endre
+Row 1122: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1122: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - N. Endre
+Row 1122: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - N. Endre
+Row 1123: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1123: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - O. Endre
+Row 1123: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - O. Endre
+Row 1124: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1124: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - S. Guity
+Row 1125: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1125: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - M. Garbarino
+Row 1126: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1126: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - A. Ellwanger
+Row 1126: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - A. Ellwanger
+Row 1127: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1127: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - H. Murray
+Row 1128: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1128: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - K. Holland
+Row 1129: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1129: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - M. Meddles
+Row 1130: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1130: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - M. Sheffield
+Row 1131: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1131: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - A. Sanders
+Row 1132: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1132: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - R. King
+Row 1133: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1133: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - C. Funches
+Row 1134: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1134: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - M. Haramis
+Row 1135: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1135: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - B. ROS
+Row 1136: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1136: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - C. Apfel
+Row 1137: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1137: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - J. Grimes
+Row 1138: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1138: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - J. Grimes
+Row 1138: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - J. Grimes
+Row 1139: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1139: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - I. Grimes
+Row 1139: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - I. Grimes
+Row 1140: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1140: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - M. Rodriguez-Alcaraz
+Row 1140: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - M. Rodriguez-Alcaraz
+Row 1141: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1141: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - W. Daughters
+Row 1142: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1142: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - J. Daughters
+Row 1142: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - J. Daughters
+Row 1143: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1143: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - B. Lord
+Row 1144: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1144: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - B. Beckwith
+Row 1145: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1145: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - R. Sugimoto
+Row 1146: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1146: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - R. Sugimoto
+Row 1146: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - R. Sugimoto
+Row 1147: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1147: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - E. Kopp
+Row 1148: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1148: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - O. Espinoza
+Row 1149: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1149: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - D. Moulton
+Row 1150: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1150: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - J. Larocca
+Row 1151: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1151: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - A. Previti
+Row 1151: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - A. Previti
+Row 1152: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1152: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - A. Villasanteamaran
+Row 1153: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1153: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - S. HAY
+Row 1154: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1154: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - B. HAY
+Row 1154: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - B. HAY
+Row 1155: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1155: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - A. HAY
+Row 1155: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - A. HAY
+Row 1156: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1156: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - R. Soland
+Row 1157: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1157: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - C. Fortier
+Row 1158: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1158: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - E. Pedersen
+Row 1159: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1159: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - W. Ziemies
+Row 1160: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1160: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - A. Johnson
+Row 1161: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1161: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - S. Malachinski
+Row 1162: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1162: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - S. Deery
+Row 1163: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1163: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - A. Deery
+Row 1163: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - A. Deery
+Row 1164: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1164: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - H. BAH
+Row 1165: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1165: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - N. Stansell
+Row 1166: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1166: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - J. Bissen
+Row 1167: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1167: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - K. Nichols
+Row 1168: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1168: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - M. Boedeker
+Row 1169: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1169: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - M. Morales
+Row 1170: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1170: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - M. Morales
+Row 1170: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - M. Morales
+Row 1171: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1171: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - M. Morales
+Row 1171: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - M. Morales
+Row 1172: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1172: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - M. Delong
+Row 1173: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1173: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - K. Stingily
+Row 1174: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1174: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - J. Nunley
+Row 1175: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1175: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - J. Nunley
+Row 1175: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - J. Nunley
+Row 1176: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1176: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - D. Nunley
+Row 1176: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - D. Nunley
+Row 1177: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1177: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - R. Nunley
+Row 1177: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - R. Nunley
+Row 1178: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1178: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - P. Nunley
+Row 1178: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - P. Nunley
+Row 1179: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1179: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - D. Samuel
+Row 1180: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1180: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - B. Rogers
+Row 1181: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1181: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - T. Rogers
+Row 1181: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - T. Rogers
+Row 1182: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1182: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - D. Day
+Row 1182: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - D. Day
+Row 1183: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1183: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - H. Hinz
+Row 1184: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1184: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - D. Hinz
+Row 1184: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - D. Hinz
+Row 1185: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1185: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - C. Hinz
+Row 1185: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - C. Hinz
+Row 1186: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1186: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - C. Trias
+Row 1187: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1187: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - M. Trias
+Row 1187: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - M. Trias
+Row 1188: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1188: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - F. Trias
+Row 1188: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - F. Trias
+Row 1189: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1189: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - D. Trias
+Row 1189: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - D. Trias
+Row 1190: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1190: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - D. Marin
+Row 1191: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1191: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - T. Barnes
+Row 1192: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1192: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - K. Jones
+Row 1193: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1193: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - J. Young
+Row 1194: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1194: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - J. Fountain
+Row 1195: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1195: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - R. Batrez
+Row 1196: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1196: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - E. Batrez
+Row 1196: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - E. Batrez
+Row 1197: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1197: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - A. Batrez
+Row 1197: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - A. Batrez
+Row 1198: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1198: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - N. Batrez
+Row 1198: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - N. Batrez
+Row 1199: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1199: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - D. Batrez
+Row 1199: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - D. Batrez
+Row 1200: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1200: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - G. Mcnair
+Row 1201: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1201: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - M. Elliott
+Row 1202: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1202: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - R. Parker
+Row 1203: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1203: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - Y. Cameron
+Row 1204: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1204: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - S. Cameron
+Row 1204: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - S. Cameron
+Row 1205: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1205: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - G. Cameron
+Row 1205: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - G. Cameron
+Row 1206: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1206: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - A. Cameron
+Row 1206: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - A. Cameron
+Row 1207: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1207: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - B. Walker
+Row 1208: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1208: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - J. Ashley
+Row 1209: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1209: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - P. Gray
+Row 1210: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1210: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - H. Tribble
+Row 1211: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1211: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - D. Tribble
+Row 1211: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - D. Tribble
+Row 1212: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1212: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - R. Meade
+Row 1213: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1213: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - H. Parker
+Row 1214: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1214: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - C. Loftis
+Row 1215: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1215: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - D. Kearse
+Row 1216: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1216: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - M. Tokosh
+Row 1217: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1217: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - W. Tokosh
+Row 1217: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - W. Tokosh
+Row 1218: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1218: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - F. Escarcega
+Row 1219: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1219: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - S. Gavin
+Row 1220: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1220: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - M. Garcia
+Row 1221: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1221: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - J. Stroughter
+Row 1222: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1222: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - W. Stroughter
+Row 1222: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - W. Stroughter
+Row 1223: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1223: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - L. Gardner
+Row 1224: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1224: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - W. Gardner
+Row 1224: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - W. Gardner
+Row 1225: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1225: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - W. Gardner
+Row 1225: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - W. Gardner
+Row 1226: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1226: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - M. Gardner
+Row 1226: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - M. Gardner
+Row 1227: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1227: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - M. Mendivil
+Row 1228: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1228: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - I. Puscasu
+Row 1229: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1229: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - O. Puscasu
+Row 1229: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - O. Puscasu
+Row 1230: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1230: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - R. Dow Ii
+Row 1231: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1231: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - A. Colello
+Row 1232: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1232: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - A. Palmer
+Row 1232: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - A. Palmer
+Row 1233: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1233: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - V. Palmer
+Row 1233: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - V. Palmer
+Row 1234: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1234: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - S. Cooper
+Row 1235: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1235: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - J. Wren
+Row 1235: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - J. Wren
+Row 1236: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1236: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - A. Cooper
+Row 1236: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - A. Cooper
+Row 1237: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1237: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - A. Cooper
+Row 1237: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - A. Cooper
+Row 1238: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1238: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - A. Moore
+Row 1238: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - A. Moore
+Row 1239: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1239: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - L. Traina
+Row 1240: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1240: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - J. SZE
+Row 1241: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1241: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - G. Lopez
+Row 1242: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1242: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - P. Bostic
+Row 1243: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1243: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - A. Boykin
+Row 1244: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1244: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - C. Dyxin
+Row 1245: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1245: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - D. Dyxin
+Row 1245: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - D. Dyxin
+Row 1246: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1246: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - M. Roca
+Row 1247: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1247: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - C. Roca
+Row 1247: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - C. Roca
+Row 1248: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1248: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - M. Roca
+Row 1248: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - M. Roca
+Row 1249: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1249: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - G. Roca
+Row 1249: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - G. Roca
+Row 1250: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1250: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - S. Roca
+Row 1250: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - S. Roca
+Row 1251: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1251: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - B. Johnson
+Row 1252: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1252: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - A. Cipollini
+Row 1252: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - A. Cipollini
+Row 1253: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1253: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - A. Cipollini
+Row 1253: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - A. Cipollini
+Row 1254: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1254: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - N. Jaroff
+Row 1254: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - N. Jaroff
+Row 1255: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1255: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - N. Jones
+Row 1256: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1256: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - J. Holt
+Row 1257: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1257: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - K. Holt
+Row 1257: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - K. Holt
+Row 1258: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1258: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - G. Holt
+Row 1258: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - G. Holt
+Row 1259: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1259: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - R. Gibson Jr
+Row 1260: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1260: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - R. Sigers
+Row 1261: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1261: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - C. Sigers
+Row 1261: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - C. Sigers
+Row 1262: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1262: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - M. Sigers
+Row 1262: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - M. Sigers
+Row 1263: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1263: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - A. Jimenez
+Row 1264: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1264: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - A. Jimenez
+Row 1264: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - A. Jimenez
+Row 1265: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1265: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - C. Jimenez
+Row 1265: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - C. Jimenez
+Row 1266: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1266: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - R. Jimenez
+Row 1266: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - R. Jimenez
+Row 1267: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1267: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - L. Woltz
+Row 1268: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1268: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - M. Woltz
+Row 1268: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - M. Woltz
+Row 1269: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1269: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - J. David
+Row 1270: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1270: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - L. David
+Row 1270: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - L. David
+Row 1271: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1271: Subscriber Not Enrolled - Family ID Error - No primary associated to this Family - J. David-Farmer
+Row 1271: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - J. David-Farmer
+Row 1272: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1272: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - J. Smulo
+Row 1273: Subscriber Not Enrolled - Non-Matching ClientID Error - ClientID must be 3-4 digits
+Row 1273: Subscriber Not Updated - Product ID Error - Unknown ProductID contained within the file - P. LEE
+
+
+
+SUBSCRIBERS ADDED
+
+
+
+FUTURE ADD SUBSCRIBERS
+Row 967: Future Subscriber Added - Subscriber ID 528335827866 - M. Bhatia
+
+Row 968: Future Subscriber Added - Subscriber ID 103730498115 - E. Goolst
+
+Row 969: Future Subscriber Added - Subscriber ID 915874637460 - K. Goolst
+
+Row 970: Future Subscriber Added - Subscriber ID 043839459833 - M. Goolst
+
+Row 971: Future Subscriber Added - Subscriber ID 983795386974 - W. Mayhall
+
+Row 972: Future Subscriber Added - Subscriber ID 337183288572 - E. WU
+
+Row 973: Future Subscriber Added - Subscriber ID 527400898278 - K. Henry
+
+Row 974: Future Subscriber Added - Subscriber ID 717404848556 - T. Terry
+
+Row 975: Future Subscriber Added - Subscriber ID 975732984735 - E. Moss
+
+Row 976: Future Subscriber Added - Subscriber ID 815743614364 - D. Moss
+
+Row 977: Future Subscriber Added - Subscriber ID 849604392875 - H. Pope
+
+Row 978: Future Subscriber Added - Subscriber ID 173646238802 - J. Pope
+
+Row 979: Future Subscriber Added - Subscriber ID 164690185046 - S. Pope
+
+Row 980: Future Subscriber Added - Subscriber ID 476763280655 - J. Dawson
+
+Row 981: Future Subscriber Added - Subscriber ID 378158475935 - S. Johnson Bell
+
+Row 982: Future Subscriber Added - Subscriber ID 043548296862 - B. Johnson-Bell
+
+Row 983: Future Subscriber Added - Subscriber ID 191256793619 - B. Bell
+
+Row 984: Future Subscriber Added - Subscriber ID 456049544808 - E. Sierra
+
+Row 985: Future Subscriber Added - Subscriber ID 628204524640 - J. Pancho
+
+Row 986: Future Subscriber Added - Subscriber ID 229680536231 - B. Robbins
+
+Row 987: Future Subscriber Added - Subscriber ID 186676449370 - G. Meister
+
+Row 988: Future Subscriber Added - Subscriber ID 722297229188 - A. Meister
+
+Row 989: Future Subscriber Added - Subscriber ID 242865084642 - M. Massimino
+
+Row 990: Future Subscriber Added - Subscriber ID 296224206426 - A. Dickens
+
+Row 991: Future Subscriber Added - Subscriber ID 258267092388 - E. Mcclean
+
+Row 992: Future Subscriber Added - Subscriber ID 987341671393 - N. Gabert
+
+Row 993: Future Subscriber Added - Subscriber ID 724467092919 - J. Blake
+
+Row 994: Future Subscriber Added - Subscriber ID 728057845680 - J. Blake
+
+Row 995: Future Subscriber Added - Subscriber ID 758987359706 - J. Blake
+
+Row 996: Future Subscriber Added - Subscriber ID 415607589485 - A. Nadeau
+
+Row 997: Future Subscriber Added - Subscriber ID 170739714502 - F. Harris
+
+Row 998: Future Subscriber Added - Subscriber ID 338218959520 - A. Mena
+
+Row 999: Future Subscriber Added - Subscriber ID 289228845919 - M. Salazar
+
+Row 1000: Future Subscriber Added - Subscriber ID 880241574406 - B. Goldfus
+
+Row 1001: Future Subscriber Added - Subscriber ID 201254382215 - D. Lombardi-Goldfus
+
+Row 1002: Future Subscriber Added - Subscriber ID 000691570504 - A. Johnson
+
+Row 1003: Future Subscriber Added - Subscriber ID 752102722958 - N. Johnson
+
+Row 1004: Future Subscriber Added - Subscriber ID 487718218388 - D. Johnson
+
+Row 1005: Future Subscriber Added - Subscriber ID 436496962182 - L. Johnson
+
+Row 1006: Future Subscriber Added - Subscriber ID 465750509270 - H. Sobczak
+
+Row 1007: Future Subscriber Added - Subscriber ID 102030884523 - L. Mayo
+
+Row 1008: Future Subscriber Added - Subscriber ID 119438674140 - J. Mayo
+
+Row 1009: Future Subscriber Added - Subscriber ID 200238258552 - B. Norris
+
+Row 1010: Future Subscriber Added - Subscriber ID 640093314358 - D. LAI
+
+Row 1011: Future Subscriber Added - Subscriber ID 216630661784 - M. Rhodes
+
+Row 1012: Future Subscriber Added - Subscriber ID 509465620729 - C. SO
+
+Row 1013: Future Subscriber Added - Subscriber ID 060506327991 - M. HER
+
+Row 1014: Future Subscriber Added - Subscriber ID 067136697643 - S. Gulick
+
+Row 1015: Future Subscriber Added - Subscriber ID 105178185236 - O. Suarez
+
+Row 1016: Future Subscriber Added - Subscriber ID 868668764588 - J. Schwantes
+
+Row 1017: Future Subscriber Added - Subscriber ID 157811232840 - T. Schwantes
+
+Row 1018: Future Subscriber Added - Subscriber ID 668281868634 - E. Schwantes
+
+Row 1019: Future Subscriber Added - Subscriber ID 501960785576 - J. Davis
+
+Row 1020: Future Subscriber Added - Subscriber ID 699974940868 - M. Davis
+
+Row 1021: Future Subscriber Added - Subscriber ID 945718269366 - C. Davis
+
+Row 1022: Future Subscriber Added - Subscriber ID 334991561558 - I. Davis
+
+Row 1023: Future Subscriber Added - Subscriber ID 952039933514 - L. Davis
+
+Row 1024: Future Subscriber Added - Subscriber ID 331377011400 - E. Gutierrez
+
+Row 1025: Future Subscriber Added - Subscriber ID 656711607810 - G. Gutierrez
+
+Row 1026: Future Subscriber Added - Subscriber ID 703154698735 - M. Armstrong
+
+Row 1027: Future Subscriber Added - Subscriber ID 536676742314 - M. Armstrong
+
+Row 1028: Future Subscriber Added - Subscriber ID 574266346651 - M. Armstrong
+
+Row 1029: Future Subscriber Added - Subscriber ID 110993447114 - M. Armstrong
+
+Row 1030: Future Subscriber Added - Subscriber ID 889121579005 - W. Addenbrooke
+
+Row 1031: Future Subscriber Added - Subscriber ID 630206418507 - T. Megginson
+
+Row 1032: Future Subscriber Added - Subscriber ID 952674153065 - K. Beaton
+
+Row 1033: Future Subscriber Added - Subscriber ID 123124687717 - M. Reinheimer
+
+Row 1034: Future Subscriber Added - Subscriber ID 369110905262 - K. Walters
+
+Row 1035: Future Subscriber Added - Subscriber ID 678084507919 - L. Waddell
+
+Row 1036: Future Subscriber Added - Subscriber ID 388150996817 - N. St Jacques
+
+Row 1037: Future Subscriber Added - Subscriber ID 808435793591 - E. Larcher
+
+Row 1038: Future Subscriber Added - Subscriber ID 051742781696 - K. Lucas
+
+Row 1039: Future Subscriber Added - Subscriber ID 685277067900 - J. Arwine Lucas
+
+Row 1040: Future Subscriber Added - Subscriber ID 480730846021 - C. Cook Jr
+
+Row 1041: Future Subscriber Added - Subscriber ID 299459027645 - D. Cook
+
+Row 1042: Future Subscriber Added - Subscriber ID 351141289353 - C. Cook
+
+Row 1043: Future Subscriber Added - Subscriber ID 448040279215 - J. Valle
+
+Row 1044: Future Subscriber Added - Subscriber ID 127982427532 - M. Gibson
+
+Row 1045: Future Subscriber Added - Subscriber ID 761796031845 - J. Kirk-Gibson
+
+Row 1046: Future Subscriber Added - Subscriber ID 863884496195 - C. Rivera Jr
+
+Row 1047: Future Subscriber Added - Subscriber ID 438282458527 - C. Rivera
+
+Row 1048: Future Subscriber Added - Subscriber ID 231325912201 - J. Enriquez
+
+Row 1049: Future Subscriber Added - Subscriber ID 740469003821 - K. Boeh
+
+Row 1050: Future Subscriber Added - Subscriber ID 077820654796 - S. Goodden
+
+Row 1051: Future Subscriber Added - Subscriber ID 387617782838 - N. Goodden
+
+Row 1052: Future Subscriber Added - Subscriber ID 839111329002 - K. Causey
+
+Row 1053: Future Subscriber Added - Subscriber ID 177556195956 - M. Gargiulo
+
+Row 1054: Future Subscriber Added - Subscriber ID 725908781603 - J. Miller
+
+Row 1055: Future Subscriber Added - Subscriber ID 835746954719 - L. Peang
+
+Row 1056: Future Subscriber Added - Subscriber ID 438923696196 - L. Peang
+
+Row 1057: Future Subscriber Added - Subscriber ID 965135528192 - J. Doran Jr
+
+Row 1058: Future Subscriber Added - Subscriber ID 898279112015 - E. Fitzgerald
+
+Row 1059: Future Subscriber Added - Subscriber ID 374984680104 - J. Tran
+
+Row 1060: Future Subscriber Added - Subscriber ID 666576856673 - F. Bartow
+
+Row 1061: Future Subscriber Added - Subscriber ID 595896334833 - N. Ohara
+
+Row 1062: Future Subscriber Added - Subscriber ID 292212788336 - B. Thompson
+
+Row 1063: Future Subscriber Added - Subscriber ID 011679039518 - M. Ohara
+
+Row 1064: Future Subscriber Added - Subscriber ID 252635055287 - J. Ohara
+
+Row 1065: Future Subscriber Added - Subscriber ID 455399991169 - K. Ohara
+
+Row 1066: Future Subscriber Added - Subscriber ID 062014849103 - J. Parinyaphon
+
+Row 1067: Future Subscriber Added - Subscriber ID 708327072612 - T. Jarrett
+
+Row 1068: Future Subscriber Added - Subscriber ID 512638544846 - A. Haniewich Iii
+
+Row 1069: Future Subscriber Added - Subscriber ID 320341612445 - T. Plough
+
+Row 1070: Future Subscriber Added - Subscriber ID 142414766939 - M. Bagley
+
+Row 1071: Future Subscriber Added - Subscriber ID 793277810944 - C. Bagley
+
+Row 1072: Future Subscriber Added - Subscriber ID 005250774025 - J. De Dios Corona
+
+Row 1073: Future Subscriber Added - Subscriber ID 492085964282 - J. De Dios
+
+Row 1074: Future Subscriber Added - Subscriber ID 073068468984 - M. Luna Merchan
+
+Row 1075: Future Subscriber Added - Subscriber ID 961464013322 - L. Torres Luna
+
+Row 1076: Future Subscriber Added - Subscriber ID 818347654050 - A. Croteau Jr
+
+Row 1077: Future Subscriber Added - Subscriber ID 897796192349 - D. Croteau
+
+Row 1078: Future Subscriber Added - Subscriber ID 840182474219 - E. Mercharles
+
+Row 1079: Future Subscriber Added - Subscriber ID 074480569348 - M. Brashier
+
+Row 1080: Future Subscriber Added - Subscriber ID 968292287395 - J. Woods
+
+Row 1081: Future Subscriber Added - Subscriber ID 532063061519 - K. Woods
+
+Row 1082: Future Subscriber Added - Subscriber ID 576500406236 - B. Woods
+
+Row 1083: Future Subscriber Added - Subscriber ID 454284748054 - S. Woods
+
+Row 1084: Future Subscriber Added - Subscriber ID 451512460020 - T. Cassella
+
+Row 1085: Future Subscriber Added - Subscriber ID 160784339867 - C. Cassella
+
+Row 1086: Future Subscriber Added - Subscriber ID 242047593644 - T. Cassella
+
+Row 1087: Future Subscriber Added - Subscriber ID 991903019098 - J. Cassella
+
+Row 1088: Future Subscriber Added - Subscriber ID 422408232437 - D. Tulak
+
+Row 1089: Future Subscriber Added - Subscriber ID 186451840041 - C. Willis
+
+Row 1090: Future Subscriber Added - Subscriber ID 343352205445 - C. Willis
+
+Row 1091: Future Subscriber Added - Subscriber ID 368612320076 - J. Shimek
+
+Row 1092: Future Subscriber Added - Subscriber ID 160264309644 - F. LI
+
+Row 1093: Future Subscriber Added - Subscriber ID 965419956817 - W. Wei
+
+Row 1094: Future Subscriber Added - Subscriber ID 150267873800 - C. Wei
+
+Row 1095: Future Subscriber Added - Subscriber ID 341305792234 - J. NEW
+
+Row 1096: Future Subscriber Added - Subscriber ID 239921747763 - M. Roskey
+
+Row 1097: Future Subscriber Added - Subscriber ID 541931975006 - J. Roskey
+
+
+
+
+SUBSCRIBERS CANCELED
+
+
+
+FUTURE DROP SUBSCRIBERS
+
+
+
+SUBSCRIBERS NOT IN FILE - CANCELED

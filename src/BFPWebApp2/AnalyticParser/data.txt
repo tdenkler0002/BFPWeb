@@ -1,0 +1,2 @@
+customerid,errors,missingcolumns,invalidcustomerid,nonmatchingcustomerid,firstname,middlename,lastname,employeeid,address1,zipcode,uniqueid,creditcard,familyid,plantype,uniqueidhash,failedcancel,failedmodify,ineligible,productid,
+567,720,0,0,0,0,0,0,0,0,0,717,0,0,0,0,3,0,0,0,

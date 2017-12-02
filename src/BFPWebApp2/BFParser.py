@@ -14,11 +14,13 @@ def PyParser(filename):
     pyFile = filename
     pyFileName = filename.name
     df = pd.read_csv(pyFile)
+    # List the column names
     orgColNames = df.columns.tolist()
     inputColNames = []
     dict_DOB = {1: 31, 2: [28, 29], 3: 31, 4: 30, 5: 31, 6: 30, 7: 31, 8: 31, 9: 30, 10: 31, 11: 30, 12: 31}
     # Validation Methods
 
+    # Reg expression check of the column names
     def columnCheck(colNames):
         for colName in colNames:
             if re.match(r"(effective)", colName, re.IGNORECASE):
@@ -157,6 +159,7 @@ def PyParser(filename):
 
     # Column Validation
     columnCheck(orgColNames)
+    # Put columns in new array
     df.columns = inputColNames
 
     #Create data frames for validations

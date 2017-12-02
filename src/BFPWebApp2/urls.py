@@ -10,6 +10,7 @@ from . import serializers
 urlpatterns = [
     url(r'^$', views.HomePage.as_view(), name='home'),
     url(r'^about/$', views.AboutPage.as_view(), name='about'),
+    url(r'^about/data', views.AboutPage.test, name='test'),
     url(r'^users/', include(profiles.urls, namespace='profiles')),
     url(r'^admin/', include(admin.site.urls)),
     url(r'^api/documents/$', views.FileView.as_view(), name="file-upload"),
