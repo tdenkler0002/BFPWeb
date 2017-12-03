@@ -202,4 +202,4 @@ def PyParser(filename):
     newDF['Relationship'] = pd.Categorical(newDF['Relationship'], ['P', 'D', 'S', 'C'], ordered=True)
     newDF = newDF.sort_values(['Relationship'])
 
-    newDF.to_csv('./media/documents/%s-Corrected' % pyFileName, encoding='utf-8')
+    newDF.to_csv('./media/SFTP/Outbound/%s-Corrected' % pyFileName, encoding='utf-8')

@@ -1,0 +1,16 @@
+,Effective Date,Status,ClientID,EmployeeID,MemberFirstName,MemberMiddleInitial,MemberLastName,MemberSSN,DOB_Month,DOB_Day,DOB_Year,Address1,Address2,City,State,ZipCode,AreaCode,HomePhone,Email,Deduction Method,Customer_Defined,Relationship,Primary,FamilyID,UniqueID,Plan_Type,ProductID
+0,3/1/99,Add,176456,123123123,Taylor,Justin,Jeffries,320223145,4,23,1990,123 E Test Drive,,Milwaukee,WI,53005,262,1231230,TaylorJustin@gmail.com,Employer Payroll Deduction,,P,Y,998754,667,Individual,PA
+1,1/1/00,Drop,441234,324543210,Chad,Wilson,Smith,344115413,5,22,1980,540 E Mainest St,,San Diego,CA,92001,646,4310000,ChadWilson@gmail.com,Employer Payroll Deduction,,P,Y,F777,665,Family,PAP
+4,11/11/11,Drop,301001,321543654,Kyle,Robert,Walker,765125656,3,5,1967,77123 W Faraway Drive,,Newport Beach,CA,92312,858,7896756,KyleRobert@eathlink.net,Employer Payroll Deduction,,P,Y,F778,333,Family,PA
+5,11/11/17,Add,111111,1,Thomas,Edward,Brady,123456789,10,10,1977,1 Patriots Place,,Foxboro,MA,02035,619,1234567,tbrady@gmail.com,Employer Payroll Deduction,,P,Y,1,1,Individual,
+7,1/1/16,Add,123456,P123,Austin,Bradley,Mork,123456789,2,1,1994,505 W BASELINE RD,2003.0,Tempe,AZ,85283,602,4325110,amork1@asu.edu,Employer Payroll Deduction,,P,Y,198721,198721,Individual,PAP
+8,2/1/16,Drop,111111,P124,John,Wayne,Doe,987654321,7,24,1980,1234 FAKE LANE RD,,Phoenix,AZ,85254,602,4023214,johnwaynedoe@gmail.com,Employer Sponsored,,P,Y,987111,987111,Individual,PA
+9,3/1/16,Add,222222,P125,Alice,Ann,Girl,456789123,9,12,1990,6732 LAKESIDE RD,,Tucson,AZ,85641,480,9807632,aliceanngirl@gmail.com,Employer Payroll Deduction,,P,Y,222321,222321,Individual,PA
+10,4/3/17,Add,333333,P126,Bob,Chris,Guy,321789654,1,30,1974,1095 MOUNTAIN RD,,Tempe,AZ,85283,602,7915402,bobchrisguy@gmail.com,Employer Payroll Deduction,,P,Y,F123,L111,Family,PAP
+14,11/11/17,Drop,555555,5,Bartholomey,Henry,Allen,456129783,12,12,1975,1255 Random St.,,Central City,KA,91023,455,7863542,ballen@gmail.com,Employer sponsored,,P,Y,5,5,Family,
+2,12/31/99,Change,908765,300778890,Alex,Arturo,Coleson,432333434,2,13,1971,5111 W Arboles Drive,,Los Angeles,CA,92221,949,9110911,AlexArturo@yahoo.com,Employer Sponsored,,D,N,F777,654,Family,PA
+3,1/2/03,Drop,784332,543098432,Alexandra,Marie,Samson,655320999,1,6,1963,6800 Main St,,Santa Barbara,CA,92018,949,4110114,AlexandraMarie@aol.com,Employer Sponsored,,D,N,F778,332,Family,PA
+13,11/11/17,Drop,444444,4,Peter,,Parker,798562143,10,14,1980,221 Baker St,,New York City,NY,45678,978,3216547,pparker@gmail.com,Employer sponsored,,D,N,4,4,Family,
+6,11/11/17,Add,222222,2,Kennedy,S,Nou,213538976,12,15,1994,2007 Fruit Tree Ln.,,Queen Crek,AZ,85142,623,2340458,knou1@asu.edu,Employer Payroll Deduction,,S,N,665462,665462,Individual,
+11,4/3/17,Change,444444,P127,Amber,Blah,Guy,693582471,12,5,1978,1095 MOUNTAIN RD,,Tempe,AZ,85283,602,4715897,amberblahguy@gmail.com,Employer Sponsored,,S,N,F123,L112,Family,PAP
+12,11/11/17,Change,333333,3,Luke,,Skywalker,978654321,11,31,1951,456 Tatooine Place,,Tatooine,AK,02121,234,9876540,lskywalk@gmail.com,Employer Payroll Deduction,,C,N,3,3,Family,

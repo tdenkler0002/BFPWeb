@@ -51,7 +51,7 @@ class HomePage(generic.TemplateView):
     # Remove function to get to work..
     files = []
 
-    dir_name='documents'
+    dir_name='SFTP/Outbound'
     path = os.path.join(settings.MEDIA_ROOT, dir_name)
     for f in os.listdir(path):
         if f.endswith("Corrected"): # to avoid other files

@@ -71,10 +71,11 @@
       <img class="file-submission-icon"
            src="{% static 'site/img/lookup.png' %}"/>
         <h2>Submission History</h2>
-        <p>View the previous submissions and status through the BFP Portal. You can view the files submitted for the previous 2 weeks.</p>
+        <p>View the previous submissions and status through the BFP Portal. You can view the files submitted here.</p>
+        <p>Outbound Directory</p>
         <ul>
           {% for file in view.files %}
-          <li><a href={{file}}>{{ file | slice:"17:" }}</li>
+          <li><a href={{file}}>{{ file | slice:"21:" }}</li>
           {% endfor %}
         </ul>
     </div>
